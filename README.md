@@ -1,1 +1,1 @@
-# aluraplus-exerc-cios-alura
+# aluraplus-exercicios-alura
